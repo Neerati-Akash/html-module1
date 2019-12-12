@@ -1,0 +1,21 @@
+nav{
+    
+    margin: 0;
+    padding: 0;
+}
+li a {
+    display: block;
+    list-style-type:none;
+    color: #666;
+    padding: 14px 16px;
+    text-decoration: none;
+    float:right;
+}
+.logo{
+    float: left;
+    height: 50px;
+}
+#header{
+    padding: 50px 0px;
+    border-bottom: 1px solid; 
+}
